@@ -1,0 +1,121 @@
+change,regularity,process,neologism,meaning,target_sent
+Morphological ,Irregular ,Acronymy ,Impadem ,‘print on demand’ ,Le livre n’est distribué qu’en impadem pour le moment.
+Morphological ,Irregular ,Acronymy ,Gesderad ,‘radioactive waste management’ ,L’état délègue la gesderad à des sociétés privées
+Morphological ,Irregular ,Acronymy,Licomli ,‘online order delivery’,L’entreprise a effectué la licomli en seulement deux jours.
+Morphological,Irregular ,Acronymy,Lotraitex ,‘word processor’ ,Tout le monde utilise le même lotraitex à l’université.
+Morphological ,Irregular ,Acronymy,Mobado ,‘database engine’ ,Les programmeurs ont changé le mobado du système de fichiers.
+Morphological,Irregular ,Acronymy,Formupo ,‘greeting formula’ ,Les docteurs n’ont prononcé aucune formupo avant de m’examiner.
+Morphological ,Irregular ,Reduplication,Beubeurre ,‘butter’ ,Il faudrait mettre un peu de beubeurre dans la pâte.
+Morphological ,Irregular ,Reduplication,Rorot ,‘burp’ ,Le bébé n’a pas fait son rorot après son biberon.
+Morphological ,Irregular ,Reduplication,Doidoigt ,‘finger’ ,Il s’est fait mal au doidoigt en réparant son jouet.
+Morphological ,Irregular ,Reduplication,Fufugue ,‘runaway’ ,Léa a encore fait une petite fufugue jeudi dernier.
+Morphological ,Irregular ,Blending ,Infordinateur ,‘information machine’ ,"Depuis hier, des infordinateurs sont mis à la disposition du public."
+Morphological,Irregular ,Blending ,Chocolattirance ,‘chocolate appeal’ ,Les vendeurs jouent sur la chocolattirance des passants.
+Morphological ,Irregular ,Blending ,Distriration ,‘distribution and catering’ ,Les supérettes se lancent dans la distriration depuis peu.
+Morphological,Irregular ,Blending ,Mondiabanalisation ,‘trivialization due to globalization’ ,Le gérant est accusé de mondiabanalisation sans raison.
+Morphological ,Irregular ,Blending ,Assurmonter ,‘confidently overcome’ ,Marc-Antoine a vraiment assurmonté son examen oral.
+Morphological ,Irregular ,Blending ,Maigrimanger ,‘eat little’ ,Mes parents ont choisi de maigrimanger le week-end.
+Morphological ,Irregular ,Blending ,Citexpliquer ,‘quote and explain’ ,Lisa ne citexplique pas ses références.
+Morphological ,Irregular ,Blending ,Trahiduire ,‘betray by translating’ ,Pierre a trahiduit plusieurs phrases dans la version française.
+Morphological ,Irregular ,Blending ,Trébupasser ,‘stumble and die’ ,Un grand-père a trébupassé dans l’escalier de l’hôpital.
+Morphological ,Irregular ,Blending ,Ecrandormir ,‘fall asleep watching TV’ ,Mon père s’est écrandormi juste après le repas.
+Morphological ,Regular ,Suffixation ,Acquiesceur ,‘somebody who agrees’ ,Une foule d’acquiesceurs a assisté au discours du président.
+Morphological ,Regular ,Suffixation ,Pittoresquitude ,‘picturesqueness’ ,Les touristes sont attirés par la pittoresquitude de ces villages.
+Morphological ,Regular ,Suffixation ,Emboutissure ,‘bump’ ,Charlotte a constaté des emboutissures sur son pare-choc.
+Morphological ,Regular ,Suffixation ,Assombrissage ,‘darkening’ ,Le filtre rouge permet un assombrissage subtil des photos.
+Morphological ,Regular ,Suffixation ,Bâtardité ,‘bastardness’ ,Les courtisans dénoncent la bâtardité du prince.
+Morphological ,Regular ,Compound ,Aide-pianiste ,‘piano assistant’ ,Gaspard a été engagé comme aide-pianiste au conservatoire.
+Morphological ,Regular ,Compound ,Professeur-concierge ,‘teacher and janitor’ ,Camille est professeur-concierge dans un petit collège.
+Morphological ,Regular ,Compound ,Porte-pâtisserie ,‘pastry holder’ ,Mes parents ont acheté un porte-pâtisserie pour leurs clafoutis.
+Morphological ,Regular ,Suffixation ,Faxation ,‘faxing’ ,Des coûts de faxation pourraient être facturés par le service.
+Morphological ,Regular ,Suffixation ,Récoltement ,‘collecting’ ,Les militants procéderont au récoltement des signatures.
+Morphological ,Regular ,Suffixation ,Vipérette ,‘small viper’ ,Le promeneur a été mordu par une vipérette sur le chemin.
+Morphological ,Regular ,Compound ,Carriole-balai ,‘sweeper cart’ ,Mon cousin conduit la carriole-balai du cortège de mariage.
+Morphological,Regular ,Prefixation ,Anti-genrisme ,‘anti-genderism’ ,"En Europe, l’anti-genrisme progresse rapidement."
+Morphological ,Regular ,Suffixation ,Bacheloriser ,‘award bachelor’s degree’ ,L’université a bachelorisé presque tous les étudiants.
+Morphological ,Regular ,Suffixation ,Nettoyoter ,‘clean a little’ ,François a nettoyoté la cuisine et fait une lessive.
+Morphological ,Regular ,Prefixation ,Débourgeonner ,‘remove buds’ ,"Le vent a débourgeonné les cerisiers, cette année."
+Morphological ,Regular ,Prefixation ,Méjongler ,‘juggle badly’ ,Florence a méjonglé pendant le spectacle.
+Morphological ,Regular ,Prefixation ,Sous-desservir ,‘serve insufficiently’ ,Les transports publics sous-desservent certains villages.
+Morphological ,Regular ,Prefixation ,Surcomplimenter ,‘overcompliment’ ,Les invités ont surcomplimenté la cuisinière.
+Morphological ,Regular ,Prefixation ,Refoudroyer ,‘strike again’ ,Le clocher a été refoudroyé un an plus tard.
+Semantic,Irregular ,Metaphor,Méfiance ,‘suspicion’/‘torture instrument’ ,Le bourreau presse une méfiance brûlante sur le bras de sa victime.
+Semantic,Irregular ,Metaphor,Chaton ,‘kitten’/‘sweet word’ ,Cet homme écrit des chatons adressés à sa compagne.
+Semantic,Irregular ,Metaphor,Ciseau ,‘chisel’/‘striking idea’ ,"En repensant à son texte, un ciseau lui est venu."
+Semantic,Irregular ,Metaphor,Gouttière ,‘gutter’/‘philtrum’ ,Pierre s’est coupé la gouttière en se rasant hier.
+Semantic,Irregular ,Metaphor,Disquette ,‘floppy disk’/‘lie’ ,Michel raconte des disquettes sur les réseaux sociaux.
+Semantic,Irregular ,Metaphor,Chauffage ,‘heater’/‘warm pullover’ ,Ma grand-mère m’a tricoté un chauffage en laine rouge.
+Semantic,Irregular ,Metonymy,Charbon ,‘coal’/‘point of sale’ ,Ils ont installé un charbon au coin de la rue.
+Semantic,Irregular ,Metaphor,Licorne ,‘unicorn’/‘highly valued startup company’ ,Adrien travaille maintenant dans une licorne cotée en bourse.
+Semantic,Irregular ,Metaphor,Lisière ,‘border’/‘musical transition’ ,Ce musicien a composé une lisière peu rythmée.
+Semantic,Irregular ,Metaphor,Oursin ,‘sea urchin’/‘spicy cocktail’ ,"Après avoir bu quatre oursins, Thomas était vraiment ivre."
+Semantic,Irregular ,Metaphor,Endive ,‘endive’/‘bitter word’ ,L’enseignant a hurlé des endives aux enfants turbulents.
+Semantic,Irregular ,Metonymy,Écran ,‘screen’/‘eye cornea’ ,Il s’est fait mal à l’écran en coupant du bois.
+Semantic,Irregular ,Metaphor,Huile ,‘oil’/‘spirit’ ,Des bonnes idées m’ont traversé l’huile pendant le voyage.
+Semantic,Irregular ,Metaphor,Jardiner ,‘do gardening’/‘ponder’ ,Mon cerveau jardine depuis des heures sur le même problème.
+Semantic,Irregular ,Metaphor,Randonner ,‘go trekking’/‘perform an arduous task’ ,Dimitri randonne son ménage depuis le lever du jour.
+Semantic,Irregular ,Metaphor,Élucider ,‘elucidate’/‘clean’ ,Le voisin n’élucide jamais les vitres de son appartement.
+Semantic,Irregular ,Metaphor,Dénoyauter ,‘stone a fruit’/‘castigate sb’ ,Inès a dénoyauté ses collègues durant la réunion.
+Semantic,Irregular ,Metaphor,Déglutir ,‘swallow’/‘discard’ ,Le marchand a dégluti tous ses appareils invendus.
+Semantic,Irregular ,Metaphor,Moudre ,‘grind’/‘crush a feeling’ ,Steve a tendance à moudre la patience de ses interlocuteurs.
+Semantic,Irregular ,Metaphor,S’encorder ,‘rope oneself’/‘postulate’,"Au début de l’essai, l’auteur s’encorde à trois idées fondamentales."
+Semantic,Regular,Metonymy,Brassage ,‘brewing’/‘brewed substance’ ,On verse ensuite le brassage dans un saladier.
+Semantic,Regular,Metonymy,Dénichement ,‘finding’/‘dug up object’ ,Elle revendait ses dénichements très cher sur Internet.
+Semantic,Regular,Metonymy,Blocage ,‘blockade’/‘people who block’ ,Il faut discuter avec le blocage pour obtenir des compromis.
+Semantic,Regular,Metonymy,Embauche ,‘recruitment’/‘people who recruit’ ,L’entretien que l’embauche a organisé n’a pas été concluant.
+Semantic,Regular,Metonymy,Mayonnaise ,‘mayonnaise’/‘mayonnaise dose’ ,J’ai mangé la moitié d’une mayonnaise avec mes frites.
+Semantic,Regular,Metonymy,Javel ,‘bleach’/‘bleach dose’ ,Sylvie a vidé une javel dans l’évier de la cuisine.
+Semantic,Regular,Metonymy,Velours ,‘velvet’/‘velvet clothes’,Friedrich met son velours pour se promener dans la forêt voisine.
+Semantic,Regular,Metonymy,Argile ,‘clay’/‘clay dish’ ,"Ce matin, Chloé a acheté un argile pour cuire ses gratins."
+Semantic,Regular,Metaphor,Estomac ,‘stomach’/‘car tank’ ,Jean remet de l’essence dans l’estomac de sa décapotable.
+Semantic,Regular,Metaphor,Poumon ,‘lung’/‘ventilation device’ ,L’odeur a été évacuée par les poumons du bâtiment.
+Semantic,Regular,Metaphor,Moustache ,‘mustache’/‘broom bristles’ ,Il faudrait absolument nettoyer la moustache du balai.
+Semantic,Regular,Metaphor,Museau ,‘muzzle’/‘conceptual outline’ ,"Après discussion, nous discernons le museau du problème."
+Semantic,Regular,Metaphor,Brise ,‘breeze’/‘small amount of events’ ,Il y a eu une brise d’acclamations durant le spectacle.
+Semantic,Regular,Metaphor,Typhon ,‘typhoon’/‘large amount of events’ ,L’employé est accablé d’un typhon de soucis.
+Semantic,Regular,Metaphor,Enrager ,‘become angry’/‘make sth frenzied’ ,Ses derniers coups de pinceau ont finalement enragé le tableau.
+Semantic,Regular,Metaphor,Enivrer ,‘make sb drunk’/‘make sth passionate’ ,Je trouve que la scène finale enivre agréablement le film.
+Semantic,Regular,Metaphor,Poncer ,‘sand an object’/‘shape a concept’ ,Julie ponce son idée depuis maintenant plusieurs mois.
+Semantic,Regular,Metaphor,Tamiser ,‘sieve a substance’/‘refine an idea’ ,Simon tamise ses arguments avant de les développer.
+Semantic,Regular,Metaphor,Barrir ,‘[elephant] trumpet’/‘[object] make a trumpeting sound’ ,La tondeuse à gazon barrit à la montée.
+Semantic,Regular,Metaphor,Glousser ,‘[hen] cluck’/‘[object] make a clucking sound’ ,"Depuis hier, la machine à laver glousse de manière inquiétante."
+Filler,Filler,NA,NA,NA,Raphaël déteste les pains aux raisins.
+Filler,Filler,NA,NA,NA,Léo n’a jamais mangé que les gâteaux de sa grand-mère.
+Filler,Filler,NA,NA,NA,"En ce moment, tout le monde va voir le dernier film de Spielberg."
+Filler,Filler,NA,NA,NA,Sébastien mange très volontiers du crabe au dîner.
+Filler,Filler,NA,NA,NA,Certains chiens sont vraiment très jaloux de leur maître.
+Filler,Filler,NA,NA,NA,"Après avoir vu ses filles endormies, Evan referme la porte doucement."
+Filler,Filler,NA,NA,NA,"Ce matin, un oiseau s’est écrasé contre la fenêtre."
+Filler,Filler,NA,NA,NA,Amélie coupe toujours ses pâtes avant de les manger.
+Filler,Filler,NA,NA,NA,La nouvelle sculpture capte particulièrement les regards.
+Filler,Filler,NA,NA,NA,Les plaisanteries ironiques de son ami l’ont vexé.
+Filler,Filler,NA,NA,NA,Parler de ses angoisses aide beaucoup Valentine.
+Filler,Filler,NA,NA,NA,Alexis s’est exprimé sans aucune maladresse.
+Filler,Filler,NA,NA,NA,Monique et Eva se rendent à l’école en sautillant.
+Filler,Filler,NA,NA,NA,La souris a été attirée par un morceau de fromage.
+Filler,Filler,NA,NA,NA,Les présentations du lundi sont souvent remarquables.
+Filler,Filler,NA,NA,NA,Alexandre a ramassé ses affaires et a claqué la porte.
+Filler,Filler,NA,NA,NA,Ils n’apprécient pas vraiment cette exposition d’art abstrait.
+Filler,Filler,NA,NA,NA,Le maçon s’est planté une grosse écharde dans le doigt.
+Filler,Filler,NA,NA,NA,Zoé raconte toujours des histoires drôles aux repas de famille.
+Filler,Filler,NA,NA,NA,Roger a fait la vaisselle d’un air endormi.
+Filler,Filler,NA,NA,NA,"Luc, par sa bienveillance, a lié de nombreuses amitiés."
+Filler,Filler,NA,NA,NA,Certains citoyens s’engagent comme pompiers dans leur commune.
+Filler,Filler,NA,NA,NA,Anna pense qu’il y aura une terrible tempête durant la soirée.
+Filler,Filler,NA,NA,NA,Il y a beaucoup d’orages dans la région des lacs.
+Filler,Filler,NA,NA,NA,"En séchant ses cheveux, Alan s’est brûlé l’oreille par accident."
+Filler,Filler,NA,NA,NA,"Après avoir fumé sa cigarette, Jeanne est partie."
+Filler,Filler,NA,NA,NA,"Léa n’a jamais aimé les chats, ils lui font très peur."
+Filler,Filler,NA,NA,NA,"Étonnamment, Michel est plus amical depuis ce matin."
+Filler,Filler,NA,NA,NA,Je suis parti parce que les activités n’étaient pas captivantes.
+Filler,Filler,NA,NA,NA,Daniel apprécie la collaboration professionnelle avec moi.
+Filler,Filler,NA,NA,NA,"Dans trois semaines, Auguste et moi irons pêcher."
+Filler,Filler,NA,NA,NA,Aurélie a regardé la compétition de tango à la télévision.
+Filler,Filler,NA,NA,NA,Les étudiants en géologie analysent des roches spéciales.
+Filler,Filler,NA,NA,NA,"Tristan aime Iseult, mais à la fin ils meurent."
+Filler,Filler,NA,NA,NA,Elisa a mal à la gorge depuis un ou deux jours.
+Filler,Filler,NA,NA,NA,Les enfants ont joué avec des lasers toute la matinée.
+Filler,Filler,NA,NA,NA,Je ne lis pas les journaux car ils sont trop alarmants.
+Filler,Filler,NA,NA,NA,Beaucoup d’animaux meurent écrasés en traversant l’autoroute.
+Filler,Filler,NA,NA,NA,On observe des marques de talon aiguille sur tout le parquet.
+Filler,Filler,NA,NA,NA,L’ogresse entrepose ses nombreux trésors dans sa chambre
